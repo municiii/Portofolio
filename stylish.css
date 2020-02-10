@@ -1,0 +1,10 @@
+.introduction h2 {
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+}
+.introduction p {
+    color: grey;
+    font-style: italic;
+}
+
