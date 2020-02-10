@@ -1,0 +1,31 @@
+.intro {
+    font-size: 30px;
+    font-style: italic;
+    font-family: sans-serif;
+    color: green
+}
+ h1 {
+     color: blue;
+     text-align: center;
+ }
+ h2 {
+     text-align: center;
+     color: teal;
+ }  
+ p {
+     color: skyblue;
+     font-size: 30px;
+ }
+body {
+    background-color: gray;
+}
+img {
+    float: left;
+}
+.second {
+    font-size: 30px;
+    color: red;
+}
+.third {
+    font-size: 30px;
+}
